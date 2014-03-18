@@ -1,9 +1,13 @@
 hmtbrandeis
 ===========
 Here are the basic instructions for:
+
 1. Getting started with git, from the very beginning
+
 2. The normal commands for pulling and pushing
+
 3. Specific instructions for submitting a pull request
+
 4. Oxygen download instructions
 
 GETTING STARTED
