@@ -622,11 +622,8 @@ style simple scholia" alternate="no"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.66</p>
                         </div>
                         <div type="comment">
-                            <p>οὐκ ἀναγκάζουσιν ἐπιορκεῖν <persName n="urn:cite:hmt:pers.pers216"
-                                    >Πάνδαρον</persName>· ἀλλὰ πειρῶνται· εἰς πλείω τὲ ἁμαρτίαν
-                                προκαλοῦνται <rs type="ethnic" n="urn:cite:hmt:place.place15"
-                                    >Τρῶας</rs>; ὅπως ἀξίαν τίσωσι δίκην· ἤδη γὰρ παρέβη <persName
-                                    n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName> λέγων·
+                            <p>οὐκ ἀναγκάζουσιν ἐπιορκεῖν <persName n="urn:cite:hmt:pers.pers216">Πάνδαρον</persName>· ἀλλὰ πειρῶνται· εἰς πλείω τὲ ἁμαρτίαν
+                                προκαλοῦνται <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρῶας</rs>; ὅπως ἀξίαν τίσωσι δίκην· ἤδη γὰρ παρέβη <persName n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName> λέγων·
                                 κεῖνον δ' αὖτις ἐγώ· τὸ δὲ πειρᾶν, ἀντὶ τοῦ πειράτω‡</p>
                         </div>
                     </div>
@@ -639,8 +636,7 @@ style simple scholia" alternate="no"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.66</p>
                         </div>
                         <div type="comment">
-                            <p>μεγάλως γαυριάσαντας ἐπὶ τῇ <persName n="urn:cite:hmt:pers.pers119"
-                                    >Μενελάου</persName> νίκη· μέγιτον δὲ πρὸς εθσέβειαν πορθεῖσθαι
+                            <p>μεγάλως γαυριάσαντας ἐπὶ τῇ <persName n="urn:cite:hmt:pers.pers119">Μενελάου</persName> νίκη· μέγιτον δὲ πρὸς εθσέβειαν πορθεῖσθαι
                                 <placeName n="urn:cite:hmt:place.place15">Τροίαν</placeName>, δὶα τὴν παράβασιω τῶν ὅρκων· ὥσπερ καῖ <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσέως</persName> ἡ
                                 συχὴ ναυάγησις, δὶα τὴν εἰς <persName n="urn:cite:hmt:pers.pers47">Ποσειδῶνα</persName> βχασφημίαν· ὑπερκύδας δὲ,
                                 ἐκ τοῦ κῦδος κύδας καὶ ὑπερκύδας‡</p>
@@ -748,8 +744,7 @@ style simple scholia" alternate="no"?>
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.86</p>
                         </div>
                         <div type="comment">
-                            <p>ἐνέπεσε μὲν τῷ πλήθει τῶν <rs type="ethnic"
-                                    n="urn:cite:hmt:place.place15">Τρώων</rs> ὡς ἀστὴρ· ἀνδρὶ δὲ
+                            <p>ἐνέπεσε μὲν τῷ πλήθει τῶν <rs type="ethnic" n="urn:cite:hmt:place.place15">Τρώων</rs> ὡς ἀστὴρ· ἀνδρὶ δὲ
                                 εἰκασθεῖσα <persName n="urn:cite:hmt:pers.pers216">Πάνδαρον</persName> ζητεῖ‡</p>
                         </div>
                     </div>
@@ -804,8 +799,7 @@ style simple scholia" alternate="no"?>
                         <div type="comment">
                             <p>προοικονομεῖ τὴν ἀπὸ τῶν ὅπλων σκέπην · οὐκ ἄτοπον δὲ τοξότην μὲν
                                 εἶναι τὸν ἠγούμενον · ὁπλίτας δὲ τοὺς ὑπηκόους · λοκροὶ γὰρ ((περὶ))
-                                ὧν φησὶ καὶ ε((ὐ))στρόφῳ οἰὸς ἀώτῳ πεποιθότες <placeName
-                                    n="urn:cite:hmt:place.place15"> Ἴλιον </placeName> εἰσανέβαινον,
+                                ὧν φησὶ καὶ ε((ὐ))στρόφῳ οἰὸς ἀώτῳ πεποιθότες <placeName n="urn:cite:hmt:place.place15"> Ἴλιον </placeName> εἰσανέβαινον,
                                 τοξόται μὲν εἰσὶν· ὁπλίτην δὲ ἔχουσι τὸν ἄρχοντα · ὁ γὰρ ((Αἴας))
                                 ἔγχει ἐκέκαστο ((περὶ)) πάντας <rs type="ethnic" n="urn:cite:hmt:place.place3">Ἕλληνας</rs>‡</p>
                         </div>
@@ -849,8 +843,7 @@ style simple scholia" alternate="no"?>
                         </div>
                         <div type="comment">
                             <p><persName n="urn:cite:hmt:pers.pers16">Ἀρίσταρχος</persName> μὲν,
-                                βαρύνει τἠν <rs type="waw">ἐπι</rs>· <persName
-                                    n="urn:cite:hmt.pers.pers506">Μενεκράτης</persName> δὲ ὑφὲν
+                                βαρύνει τἠν <rs type="waw">ἐπι</rs>· <persName n="urn:cite:hmt.pers.pers506">Μενεκράτης</persName> δὲ ὑφὲν
                                 ἀναγινώσκει‡</p>
                         </div>
                     </div>
@@ -860,13 +853,13 @@ style simple scholia" alternate="no"?>
                             <p><add place="supralinear"><num value="21">ΚΑ</num></add>χάριν</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.95</p>
                         </div>
                         <div type="comment">
-                            <p>χάριν μν, ὡσ τῆς μάχης παύσας αὐτοὺς · κύδος δὲ, ὡς
-                                τὸν βασιλέα τῶν  πολεμίων ἀνελών· βεβαιω τικῶς δὲ ἀναγνωστέον·
-                                ὅμοὶον γάρ ἐστι, τῳ ἠ γάρ κεσφι μάλα μέγα κῦδος
-                                ἄροιο · πιστὸς δὲ ὁ λόγος περὶ ἀνδρὸς λεγόμενος ἐπιφανοῦς‡</p>
+                            <p>χάριν μὲν, ὡς τῆς μάχης παύσας αὐτοὺς· κύδος δὲ, ὡς τὸν βασιλέα τῶν
+                                πολεμίων ἀνελών· ((βεβαιω)) τικῶς δὲ ἀναγνωστέον· ὅμοιον γάρ ἐστι,
+                                τῷ ἦ γάρ κε σφι μάλα μέγα κῦδος ἄροιο · πιστὸς δὲ ὁ λόγος ((περὶ))
+                                ἀνδρὸς λεγόμενος ἐπιφανοῦς‡</p>
                         </div>
                     </div>
                     
@@ -875,12 +868,11 @@ style simple scholia" alternate="no"?>
                             <p><add place="supralinear"><num value="22">ΚΒ</num></add>Ἀλεξάνδρῳ</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.96</p>
                         </div>
                         <div type="comment">
-                            <p>ῆροσαγωγικῶς· εἴ γε αὐτῷ  <persName n="urn:cite:hmt:pers.pers129">Αλεξἁνδρῳ</persName> τοῦτο ποιῶν χαρίεις
-                                εὑρίσκεται· ἀγγίνους δὲ φαίνεται, τῷ ποιεῖν τοὺς ἐπαίνους
-                                τῷ καιρῳ οἰκείους‡</p>
+                            <p>προσαγωγικῶς· εἴ γε αὐτῷ <persName n="urn:cite:hmt:pers.pers129">Αλεξἁνδρῳ</persName> τοῦτο ποιῶν χαρίεις εὑρίσκεται· ἀγχίνους
+                                δὲ φαίνεται, τῷ ποιεῖν τοὺς ἐπαίνους τῷ καιρῷ οἰκείους‡</p>
                         </div>
                     </div>
                     
@@ -889,14 +881,13 @@ style simple scholia" alternate="no"?>
                             <p><add place="supralinear"><num value="23">ΚΓ</num></add>πάμπρωτα</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.97</p>
                         </div>
                         <div type="comment">
-                            <p>πρῶτα μὲν ὡς καὶ ἄλλων δωσόντων· ἀγλαὰ δὲ, ὡς περὶ
-                                βασιλέως· ᾰπείργει δὲ ἡμᾶς δωροδοκίας δὶα  <persName n="urn:cite:hmt:pers.pers216">Πανδαρου</persName> καὶ
-                                 <persName n="urn:cite:hmt:pers.pers7">Ἀντιμάχου</persName> · τινὲς δὲ ἀναστρέφουσι τὴν παρὰ κακῶς· 
-                                οὐδέποτε γὰρ ἀναστρέφεται πρόθεσις, γενικὴ συντασσομένη
-                                πτώσει‡</p>
+                            <p>πρῶτα μὲν ὡς καὶ ἄλλων δωσόντων· ἀγλαὰ δὲ, ὡς ((περὶ)) βασιλέως·
+                                ἀπείργει δὲ ἡμᾶς δωροδοκίας δὶα <persName n="urn:cite:hmt:pers.pers216">Πανδαρου</persName> καὶ <persName n="urn:cite:hmt:pers.pers7">Ἀντιμάχου</persName> · τινὲς δὲ
+                                ἀναστρέφουσι τὴν <rs type="waw">παρὰ</rs> κακῶς· οὐδέποτε γὰρ
+                                ἀναστρέφεται πρόθεσις, γενικὴ συντασσομ((ένη)) πτώσει‡</p>
                         </div>
                     </div>
                     
@@ -905,11 +896,11 @@ style simple scholia" alternate="no"?>
                             <p><add place="supralinear"><num value="24">ΚΔ</num></add>δμηθέντα</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.99</p>
                         </div>
                         <div type="comment">
-                            <p>ἑλκυσικῶς τοῦτο φησὶν· ώς πάντως αὐ του ἅμα τῷ 
-                                βληθῆναι τεθνήξοντος‡</p>
+                            <p>ἑλκυσικῶς τοῦτο φησὶν· ὡς πάντως αὐτοῦ ἅμα τῷ βληθῆναι
+                                τεθνήξοντος‡</p>
                         </div>
                     </div>
                     
@@ -918,86 +909,107 @@ style simple scholia" alternate="no"?>
                             <p><add place="supralinear"><num value="25">ΚΕ</num></add>Μενελάου</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.100</p>
                         </div>
                         <div type="comment">
-                            <p>πῶς μὴ  <persName n="urn:cite:hmt:pers.pers22"> Ἀγαμέμνονα</persName> 
-                                τοξεύει ἀκοθόπλιστον ὄντα· ἢ τινὰ
-                                τῶν ἀρίστων ἄλλον, ἀλλὰ τὸν ἐντεθωρακισμένον <persName n="urn:cite:hmt:pers.pers22">Μενέλαον</persName>· 
-                                δῆλον οὐν ὡς ἀποτριβόμενος τὴν κατηγορίαν τῆς ἐπιορκίας·
-                                FNISH ‡</p>
+                            <p>πῶς μὴ <persName n="urn:cite:hmt:pers.pers22"> Ἀγαμέμνονα</persName>
+                                τοξεύει ἀκοθόπλιστον ὄντα· ἢ τινὰ τῶν ἀρίστων ἄλλον, ἀλλὰ τὸν
+                                ἐντεθωρακισμένον <persName n="urn:cite:hmt:pers.pers22">Μενέλαον</persName>· δῆλον οὖν ὡς ἀποτριβόμενος τὴν κατηγορίαν
+                                τῆς ἐπιορκίας· ἵνα δοκῆ μᾶλλον <persName n="urn:cite:hmt:pers.pers129">Ἀλέξανδρος</persName> εἶναι ὁ ἐκ λόχου
+                                <persName n="urn:cite:hmt:pers.pers119">Μενέλαον</persName> τοξεύσας, ἀλλὰ μὴ <persName n="urn:cite:hmt:pers.pers216">Πάνδαρος</persName>‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="101" n="4064" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="26">ΚϚ</num></add>Λυκηγενέϊ</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.101</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ἀψευδέστατον γάρ ἐστιν <persName n="urn:cite:hmt:pers.pers40">Ἀπόλλωνος</persName> ἱερὸν ἐν <placeName n="urn:cite:hmt:place.place75">Λυκίᾳ</placeName>· πληροῖ δὲ αὐτὸν
+                                φρονήματος μείζονος, πολίτην αὐτοῦ τὸν θεὸν ὑποθέμενος εἶναι‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="102" n="4065" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="27">ΚΖ</num></add>πρωτογόνων</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.102</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>νέων· ἐπειδὴ καὶ τὸ θεῖον ἀεὶ νεάζει· ἢ πρωτεύοντων ἐν γονῇ· ἢ
+                                ἠριτόκων· πρῶτον γὰρ πάσης ὥρας τὸ ἐάρ· πῶς δὲ ὁ <persName n="urn:cite:hmt:pers.pers44">Χρύσης</persName> ταύρων καὶ
+                                αἰγῶν θυσίαν ὑπισχνεῖται· ἐροῦμεν ὅτι τὰ ἀπόρρητα τοῦ <choice>
+                                    <abbr>θῦ</abbr>
+                                    <ex>θεοῦ</ex>
+                                </choice> σαφῶς εἰδὼς, καὶ τὰ φίλα θύει· θυσίαις γὰρ αἰγῶν καὶ
+                                ταύρων ἥδεται· ὕλη γὰρ αὐτὰ τοῖς τόξοις κερασφόρα ὄντα· Πάνδ((ο))ρος δὲ
+                                ὑπὸ <placeName n="urn:cite:hmt:place.place1">Ἀθηνᾶς</placeName> πειθόμενος τοξεῦσαι, οὐκ αἶγας οὐ δὲ ταύρους ὑπισχνεῖται·
+                                ἀλλ' ἐρίφων πρωτογόνων θυσίαν· ἀποτυχεῖν γὰρ αὐτὸν τῆς καιρίας
+                                πληγῆς ἐβούλετο‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="103" n="4066" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="28">ΚΗ</num></add>ἱερῆς</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.103</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>τοῦτο πρὸς τὸ ἐπᾶραι <persName n="urn:cite:hmt:pers.pers216">Πάνδαρον</persName>· ἢ ἐπεὶ χρηστήριον ἐστὶν ἐκεῖ τοῦ
+                                θεοῦ‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="104" n="4067" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="29">ΚΘ</num></add>ἄφρονι</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.104</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ὅτι θεοὺς ἐκάγει εἰς τὴν <choice>
+                                    <abbr>κτ`</abbr>
+                                    <ex>κατὰ</ex>
+                                </choice> θεῶν πρᾶξιν· διδάσκει δὲ μήτε θεῷ ((περὶ)) τὸ δὲ
+                                συμβουλεύοντι πείθεσθαι‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="105" n="4068" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="30">Λ</num></add>ἐσύλα</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.105</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ὅτι ἡσυχῆ ἔμελλε κλέπτειν τὴν πρᾶξιν καὶ λύειν τὴν τῶν θεῶν πίστιν ὡς
+                                ἱερόσυλος· τοῦ ἰξάλου δὲ, τοῦ ἱκνουμένου ἐπὶ τοὺς ἅλας· ψωριῶν γὰρ
+                                οὐδενὸς ἑτέρου μεταλαμβάνει· ἢ τὸν εἰς τὰς ἰξύας ἐρχόμενον ὅ ἐστι
+                                κήλωνα· ἢ ἐντομίαν οἱ γὰρ τέλειοι διωκόμενοι, ἐντρίβονται τοὺς
+                                ὄρχεις· ἢ τὸν εἰς πᾶν ὕψος ἱκνεῖσθαι δυνάμενον‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="106" n="4069" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="31">ΛΑ</num></add>τυχήσας</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.106</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>προκατασκευάζει διὰ τούτου, τὴν τοῦ ἀνδρὸς εὐτυχίαν· προδοκῇσι· δὲ,
+                                τόποις προβλήματα ἔχουσιν· οι ((δὲ`)) ταῖς ἐνέδραις· ὕπτιον δὲ λέγει
+                                πεσεῖν, ἵνα τὸ καίριον τῆς πληγῆς δηλωθῆ, ὃ αὐτὸν ὑπτιάζει‡</p>
                         </div>
                     </div>
                     
