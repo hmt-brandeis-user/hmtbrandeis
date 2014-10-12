@@ -1013,87 +1013,98 @@ style simple scholia" alternate="no"?>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="109" n="4070" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="1">Α</num></add>κέρα</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.109</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ἀποκοπή ἐστι τοῦ κέρατα· ἢ συναλιφὴ τοῦ κέραα· πῶς δὲ δύνατ((αι))
+                                κέρας εἶναι δύο καὶ ἥμισυ πήχεων· ἢ οὐκ ἐπὶ ἑκατέρου τοῦτο φησὶν,
+                                ἀλλ' ἀμφοτέρων‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="110" n="4071" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="2">Β</num></add>ἤραρε</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.110</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>πᾶς τεχνίτης· ὅθεν ((λιθοτέκτονὲς)) καὶ χρυσοτέκτονες‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="111" n="4072" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="3">Γ</num></add>ἐπέθηκε</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.111</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ἤτοι ἐπάνω ἔθηκεν· κορώνη δὲ, πᾶν τὸ ἐπικαμπὲς, ἀπὸ μεταφορᾶς τοῦ
+                                ζώου‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="112" n="4073" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="4">Δ</num></add>τανυσσάμενος</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.112</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>τουτέστιν ἐπαναβιβάσας τῇ κορώνῇ τὴν νευράν· βραχ((ὺ)) δὲ διασταλτέον εἰς τὸ τανυσσάμενος‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="113" n="4074" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="5">Ε</num></add>ἀγκλίνας</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.113</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ἀπερείσας· κατάφωρον δὲ αὐτὸν μᾶλλον ποιοῦσι τειχίζοντ((ες)) τοῖς
+                                ὅπλοις· ἀλλ' ἅμα ἔτεινεν ἀφῆκε καὶ οὐκ τὰ τὴν τοῦ λόγου
+                                διήγησιν‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="117" n="4075" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="6">Ϛ</num></add>ἀβλῆτα</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.117</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>σημειοῦτ((αι)) ὁ στίχος ὡς ἐνοχλῶν τῇ τάξει· καὶ τὸ ἀβλῆτα δὲ, οὐχ'
+                                ((Ὁμηρικόν))· ἄμεινον δὲ τοῦ πτερόεντα, τὸ πικρὸν ὀϊστόν· ἕρμα δὲ τὸ
+                                ἔρεισμα· συνέχει γὰρ ἕως ἀφαιρεθῇ τὴν ὀδύνη· ὅμοιον δέ ἐστι, τῷ ἕρμα πόλιος· μελαινάων δὲ, ὅτι μελαίνοντ((αι)) αἱ σάρκες τῶν, 
+                                ἐκ πεφαρμακευμένων βληθέντων ὀϊστῶν· ((ὡς)) τὸ, μελαίνετο δὲ χρόα καλόν‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="118" n="4076" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="7">Ζ</num></add>αἶψα</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.118</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>τὸ αὐτίκα καὶ τὸ αἶψα δηλοῖ, ὡς καὶ αὐτὸς τοῖς δώροις ἐπτερωμένος ἦν·
+                                τὸ δὲ κατεκόσμει, διὰ τὸ ἐπικίνδυνον τῆς βολῆς· ἀμέλει καὶ ὀϊστὸν
+                                ἐπιλέγεται· ὃν μάλιστα εὔστοχον οἴεται εἶναι· <persName n="urn:cite:hmt:pers.pers118">Ὀδυσσεὺς</persName> δὲ, 
+                                <cit><q>ταχέας ἐκχεύατ' ὀϊστοὺς</q><ref>((...))</ref></cit>· κατὰ γυμνῶν γαρ ἵησιν, οὐ στοχασμοῦ δεόμενος‡</p>
                         </div>
                     </div>
                     
