@@ -1108,51 +1108,57 @@ style simple scholia" alternate="no"?>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="122" n="4077" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="8">Η</num></add>γλυφίδας</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.122</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ἀντὶ ἑνικοῦ τὸ γλυφίδας· ἐπεὶ δὲ πρώτη βέλους ἐστὶν ἄφεσις αὕτη,
+                                εἰκότως αὐτὴν ἐν τῷ ἀρίστῳ ἐπεξεργάζεται· νόμον δὲ τοξείας γράφει· ((Σκύθαι)) μὲν οὖν ἐπὶ τῶν ὤμων τείνουσι, καὶ 
+                                νεύροις ἱππείοις· κρῆτες δὲ, τούτοις ἐναντίως καὶ νεύροις βοείοις· ἀπὸ δὲ τῶν παρεπομένων τὴν ἐν τασιν δηλοῖ ((SECOND HAND 
+                                ADDITION))‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="124" n="4078" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="9">Θ</num></add>κυκλοτερὲς</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.124</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ἀντὶ τοῦ τείνας, κυκλοτερες ἐποίησε· τὸ δὲ λΐγξεν, ὀνοματοποιΐα ἐστίν· ἐκ δὲ τῶν παρεπομένων τὴν ἄφεσιν δηλοῖ· τοῦ δὲ
+                                ἆλτο συνετμήθη ((ἡλέ...)), πρὸς τὸ τάχος τῆς ἀφέσεως‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="126" n="4079" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="10">Ι</num></add>ὀξυβελὴς</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.126</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ὀξέως βάλλων ἢ βληθείς· ἐμφαντικῶς δὲ τὴν τοῦ βάλλοντος προθυμίαν εἰς τὸ βληθὲν μετήγαγεν· ὡς τὸ 
+                                <cit><q>λιλαιόμενα χροὸς ἆσαι</q><ref>((...))</ref></cit>· καὶ <cit><q>ἀγαλλόμ((εναι)) ((Διὸς)) οὔρῳ</q><ref>((...))</ref></cit>· 
+                                ἐπιττέσθαι δὲ, τὸ ἐπιπεσεῖν τῷ πλήθει· ἀπὸ τοῦ πτῶ· τὸ δὲ διαπτάσθαι, ἀπὸ τοῦ πτῆμι‡</p>
                         </div>
                     </div>
                     
-                    <div ana="1" n="4000" type="scholion">
+                    <div ana="127" n="4080" type="scholion">
                         <div type="symbol">
-                            <p><add place="supralinear"><num value="1">Α</num></add></p>
+                            <p><add place="supralinear"><num value="11">ΙΑ</num></add>Μενέλαε</p>
                         </div>
                         <div type="ref">
-                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:</p>
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:4.127</p>
                         </div>
                         <div type="comment">
-                            <p>‡</p>
+                            <p>ἀποστροφὴ ἀπὸ προσώπου εἰς πρόσωπον· προσπέπονθε δὲ ...‡</p>
                         </div>
                     </div>
                     
