@@ -1,4 +1,5 @@
-<TEI.2>
+<TEI
+    xmlns="http://www.tei-c.org/ns/1.0">
 <teiHeader>
 <fileDesc>
 <titleStmt>
@@ -13,13 +14,13 @@
 </fileDesc>
 <profileDesc>
 <langUsage>
-<language id="grc">Greek, in Unicode</language>
-<language id="eng">English</language>
+<language ident="grc">Greek, in Unicode</language>
+<language ident="eng">English</language>
 </langUsage>
 </profileDesc>
 </teiHeader>
 <text>
-<body lang="grc">
+<body xml:lang="grc">
 <div n="3">
 <head>ιλιαδος γ</head>
 <l n="1">αὐτὰρ ἐπεὶ κόσμηθεν ἅμ᾽ ἡγεμόνεσσιν <add place="above" hand="A"><num value="9">Θ</num></add>ἕκαστοι·</l>
@@ -32,14 +33,14 @@
 <l n="7">ἠέριαι δ᾽ ἄρα ταί γε κακὴν ἔριδα προφέρονται·</l>
     <l n="8">οἳ δ᾽ ἄρ᾽ <add place="above" hand="A"><num value="15">ΙΕ</num></add>ἴσαν σιγῇ μένεα πνείοντες <rs type="ethnic" n="urn:cite:hmt:place.place96">ἀχαιοὶ</rs></l>
 <l n="9">ἐν θυμῷ μεμαῶτες <add place="above" hand="A"><num value="16">ΙϚ</num></add>ἀλεξέμεν ἀλλήλοισιν·</l>
-<l n="10">εὖτ᾽ ὄρεος κορυφῇσι νότος κατέχευεν ὀμίχλην</l>
+    <l n="10">εὖτ᾽ ὄρεος κορυφῇσι <persName n="urn:cite:hmt:pers.pers575">νότος</persName> κατέχευεν ὀμίχλην</l>
 <l n="11"><add place="above" hand="A"><num value="17">ΙΖ</num></add>ποιμέσιν οὔ τι φίλην· κλέπτῃ δέ τε νυκτὸς ἀμείνω·</l>
 <l n="12">τόσσον τίς τ᾽ ἐπιλεύσσει <add place="above" hand="A"><num value="18">ΙΗ</num></add>ὅσον τ᾽ ἐπὶ λᾶαν ἵησιν·</l>
 <l n="13">ὣς ἄρα τῶν ὑπὸ ποσσὶ <add place="above" hand="A"><num value="19">θ</num></add>κονίσαλος ὤρνυτ᾽ ἀελλὴς</l>
 <l n="14">ἐρχομένων· μάλα δ᾽ ὦκα διέπρησσον πεδίοιο·</l>
 <l n="15">οἳ δ᾽ ὅτε δὴ σχεδὸν ἦσαν ἐπ᾽ ἀλλήλοισιν ἰόντες·</l>
-<l n="16">τρωσὶν μὲν <add place="above" hand="A"><num value="20">Κ</num></add>προμάχιζεν ἀλέξανδρος θεοειδὴς·</l>
-<l n="17">παρδαλέην ὤμοισιν ἔχων· καὶ καμπύλα τόξα·</l>
+    <l n="16"><rs type="ethnic" n="urn:cite:hmt:place.place15">τρωσὶν</rs> μὲν <add place="above" hand="A"><num value="20">Κ</num></add>προμάχιζεν <persName n="urn:cite:hmt:pers.pers129">ἀλέξανδρος</persName> θεοειδὴς·</l>
+    <l n="17">παρδαλέην ὤμοισιν ἔχων· καὶ καμπύλα τόξα·</l>
 <l n="18">καὶ ξίφος· αὐτὰρ <add place="above" hand="A"><num value="21">ΚΑ</num></add>δοῦρε δύω κεκορυθμένα χαλκῷ</l>
 <l n="19">πάλλων, <add place="above" hand="A"><num value="22">ΚΒ</num></add>ἀργείων προκαλίζετο πάντας ἀρΐστους</l>
 <l n="20">ἀντίβιον μαχέσασθαι ἐν αἰνῇ δηϊοτῆτι·</l>
@@ -487,4 +488,4 @@
 </div>
 </body>
 </text>
-</TEI.2>
+</TEI>
